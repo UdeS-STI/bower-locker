@@ -20,7 +20,7 @@
     "bower-locker": "./bower-locker.js"
   },
   "dependencies": {
-    "commander": "~2.9.0",
-    "json-format": "~0.1.2"
+    "commander": "~2.11.0",
+    "json-format": "~1.0.1"
   }
 }
