@@ -1,5 +1,7 @@
 # bower-locker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/UdeS-STI/bower-locker.svg)](https://greenkeeper.io/)
+
 `bower-locker` is a node command line tool for providing **"pseudo"-locking** capability for a project leveraging
 [bower](https://bower.io/).
 
